@@ -1,3 +1,14 @@
+This repository is a fork of kalaspuffar/java-by-example
+
+I needed to generate PDF for invoices but I did not need the JSON parsing so I started to move the JSON logic outside the classes.
+
+Then I did not like the fact that some variables like pdfDocument were "moved" from methods to methods.
+So I created a single class to handle PDF logic (and inside this class I can use attributes)
+
+Finally, I added mino improvements with the PdfInvoiceOptions class
+
+Thanks to @kalaspuffar from the initial implementation, it saved me a lot of time.
+
 # Java by example
 
 A video series where we build small implementations together.
