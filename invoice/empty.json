@@ -20,7 +20,7 @@
         "email": ""
     },
     "shipTo": {
-        "sameAsBilling": true,
+        "sameAsBilling": true
     },
     "shippingData": {
         "shipNumber": "SN000101002",

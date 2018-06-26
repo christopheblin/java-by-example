@@ -20,7 +20,7 @@
         "phone": "05 87 22 53 11"
     },
     "shipTo": {
-        "sameAsBilling": true,
+        "sameAsBilling": true
     },
     "shippingData": {
         "shipNumber": "1Z093945969988001",
@@ -36,19 +36,19 @@
             "productId": "1000001105",
             "description": "Noodles - Steamed Chow Mein",
             "quantity": "90",
-            "unitPrice": "1,99"
+            "unitPrice": "1.99"
         },
         {
             "productId": "1000001113",
             "description": "Tea - Honey Green Tea",
             "quantity": "75",
-            "unitPrice": "30,72"
+            "unitPrice": "30.72"
         },
         {
             "productId": "1000001121",
             "description": "Paper Towel Touchless",
             "quantity": "195",
-            "unitPrice": "79,70"
+            "unitPrice": "79.70"
         }
     ]
 }
